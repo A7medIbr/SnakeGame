@@ -1,1 +1,1 @@
-a Snake Game using three js
+Snake Game 
